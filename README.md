@@ -1,4 +1,4 @@
 # AdrenalineJunkie
-A Super Cool Website to Experience adventure from the comfort of your house!!
-Check It Out Here https://adrenalinejunkie.netlify.app/
+A Super Cool Website to Experience Adventure from the comfort of your house!! <br>
+Check it out here now! https://adrenalinejunkie.netlify.app/
 
